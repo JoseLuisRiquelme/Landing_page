@@ -1,0 +1,3 @@
+This repository is the the result of an acamedic activity, that was about to invent a hypotetical product to sell, and in my case
+i make it about a pet-toy called pooping-dog its like a fresh poop of a dog, cause am triying to make people to think and  be responsible with yours pets specially 
+with its poops, cause is absolutely disgusting to put your shoe on it, in the second case the form and the smell of this toy is just for fun  

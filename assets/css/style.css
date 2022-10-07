@@ -1,0 +1,68 @@
+*{
+	margin: 5px;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+    font-family: 'Monoton', cursive;
+}
+header{
+    background-image: url("..//imgs/pooping_dog.jpg");
+    display: flex;
+    height: 18rem;
+    width: auto;
+    align-items: center;
+    font-size:  3rem;
+
+}
+h1{
+    color: aqua;
+
+}
+.toy{
+ font-size:2rem;  
+ padding: 0%;
+ margin: 0px; 
+ border: 0px;
+ color: aqua;
+}
+.cabeza{
+    background-color:hsla(0, 0%,20%,1) ;
+    padding: 1px;
+    display: inline-block;
+}
+.productos{
+    display: flex;
+    flex-flow: column wrap;
+}
+.contenedor{
+    display: flex;
+    flex-flow: row wrap;
+}
+.oferta{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+body{
+    background-color:hsla(0, 0%,50%,1) ;
+    background-repeat: repeat;
+    
+}
+.contacto{
+    color: aqua;
+    justify-content: center;
+    display: flex;
+    align-items: baseline;
+}
+.poop1, .poop2, .poop3, .poop4{
+    background-color:hsla(0, 0%,20%,1) ;
+    width: 35rem;
+} 
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    background-color:hsla(0, 0%,20%,1) ;
+}
